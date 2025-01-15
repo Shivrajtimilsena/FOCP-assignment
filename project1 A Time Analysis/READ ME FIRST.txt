@@ -1,0 +1,30 @@
+F1 TIMING ANALYSIS
+
+This Python script analyzes Formula 1 lap time data and provides insightful results, 
+including individual and overall performance metrics for drivers. 
+It processes lap times from multiple race files and outputs tabular 
+data for both individual files and combined results.
+
+*Requirements* - Python 3.7 or higher and "pip install tabulate" 
+
+FEATURES
+
+1) Individual Race Analysis: Displays the fastest lap time and average lap time for each driver in a race. 
+Highlights the fastest driver for each race.
+
+2) Combined Analysis: Calculates the overall average lap time across all provided files.
+Outputs tabular results sorted by the fastest lap times.
+
+3) Driver Information Integration: Uses a drivers file (f1_drivers.txt) to associate driver codes with their names and teams.
+
+4) Flexible Input: Supports multiple lap time files as command-line arguments for batch processing.
+
+5) Error Handling: Handles missing files, invalid data, and other common errors gracefully.
+
+NOTES
+
+1) If a driver code is missing from the f1_drivers.txt file, it will appear as "Unknown" in the results.
+
+2) Invalid lap times in the files (e.g., non-numeric values) will be skipped with a warning.
+
+3) Ensure all lap time files and the drivers file are properly formatted to avoid errors.
