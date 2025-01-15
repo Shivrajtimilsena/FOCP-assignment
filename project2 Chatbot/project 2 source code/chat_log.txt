@@ -1,0 +1,45 @@
+User (shivraj): how to apply
+Agent (Bob): I don't understand. Can you clarify?
+--------------------------------------------------
+User (shivraj): how to apply admissions
+Agent (Bob): You can apply for admission through our online portal at www.poppleton.edu. Check out the admissions page for more details!
+--------------------------------------------------
+User (kishore): what are the today campus events
+Agent (Eve): Today, we have the 'Science Club Meet-Up' in the student center at 3 PM, and a 'Music Concert' at 7 PM. Don't miss it!
+--------------------------------------------------
+User (kishore): how are you
+Agent (Eve): I'm great! Thanks for asking. How can I assist you further?
+--------------------------------------------------
+User (kishore): thanks for helping
+Agent (Eve): I don't understand. Can you clarify?
+--------------------------------------------------
+User (kishore): ok bye
+Agent (Eve): Alright! See you later! Have a great day at the University of Poppleton!
+--------------------------------------------------
+User (shyam): i would like to know about tday campus event
+Agent (Eve): I don't understand. Can you clarify?
+--------------------------------------------------
+User (shyam): today campus events
+Agent (Eve): Today, we have the 'Science Club Meet-Up' in the student center at 3 PM, and a 'Music Concert' at 7 PM. Don't miss it!
+--------------------------------------------------
+User (shyam): how to apy admission
+Agent (Eve): I don't understand. Can you clarify?
+--------------------------------------------------
+User (shyam): how to apply admission
+Agent (Eve): You can apply for admission through our online portal at www.poppleton.edu. Check out the admissions page for more details!
+--------------------------------------------------
+User (shyam): is library open
+Agent (Eve): I don't understand. Can you clarify?
+--------------------------------------------------
+User (shyam): is library close
+Agent (Eve): The library is open from 9 AM to 9 PM, Monday through Friday. On weekends, it closes at 5 PM.
+--------------------------------------------------
+User (shyam): thankyou for your assistance
+Agent (Eve): I don't understand. Can you clarify?
+--------------------------------------------------
+User (shyam): thankyou
+Agent (Eve): I don't understand. Can you clarify?
+--------------------------------------------------
+User (shyam): nice to meet you
+Agent (Eve): The pleasure is all mine! Feel free to ask me anything about our university!
+--------------------------------------------------

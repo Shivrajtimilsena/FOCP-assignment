@@ -1,0 +1,93 @@
+[
+    {
+        "response_type": "greeting",
+        "user_input": ["hello", "hi", "hey"],
+        "bot_response": "Hey there! Welcome to the University of Poppleton. How can I assist you today?",
+        "required_words": []
+    },
+    {
+        "response_type": "greeting",
+        "user_input": ["see you", "goodbye", "bye"],
+        "bot_response": "Alright! See you later! Have a great day at the University of Poppleton!",
+        "required_words": []
+    },
+    {
+        "response_type": "greeting",
+        "user_input": ["nice", "to", "meet", "you"],
+        "bot_response": "The pleasure is all mine! Feel free to ask me anything about our university!",
+        "required_words": ["nice", "meet"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["coffee", "open", "bar", "when"],
+        "bot_response": "The campus coffee bar opens from 8 AM to 5 PM every weekday. Perfect for a quick break!",
+        "required_words": ["coffee"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["admission", "how", "apply"],
+        "bot_response": "You can apply for admission through our online portal at www.poppleton.edu. Check out the admissions page for more details!",
+        "required_words": ["admission"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["what", "time", "library", "close"],
+        "bot_response": "The library is open from 9 AM to 9 PM, Monday through Friday. On weekends, it closes at 5 PM.",
+        "required_words": ["library", "close"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["refund", "how", "can", "I", "get"],
+        "bot_response": "We don't offer refunds for free education, but feel free to contact the admin office for other inquiries.",
+        "required_words": ["refund"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["campus", "events", "today"],
+        "bot_response": "Today, we have the multiple events in our university, more details are in our Events page on the University Website. Don't miss it!",
+        "required_words": ["events", "today"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["scholarships", "available", "how", "apply"],
+        "bot_response": "We offer several scholarships for both undergraduates and postgraduates. Check out our 'Scholarships' page on the university website for more details.",
+        "required_words": ["scholarships", "apply"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["library", "opening", "hours"],
+        "bot_response": "The library is open from 9 AM to 9 PM on weekdays, and from 10 AM to 5 PM on weekends.",
+        "required_words": ["library", "hours"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["library", "where", "located"],
+        "bot_response": "The library is open from 9 AM to 9 PM on weekdays, and from 10 AM to 5 PM on weekends.",
+        "required_words": ["library", "hours"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["sports", "clubs", "available"],
+        "bot_response": "We have a wide range of sports clubs at the University of Poppleton, including cricket, football, basketball, and tennis. Check out the student activities page for more information!",
+        "required_words": ["sports", "clubs"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["how", "do", "I", "register", "classes"],
+        "bot_response": "To register for classes, you need to log in to your student portal at www.poppleton.edu and select your courses from the list available during registration periods.",
+        "required_words": ["register", "classes"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["student", "counseling", "available"],
+        "bot_response": "Yes, we offer student counseling services. You can make an appointment through the student portal, or visit the counseling office in Building A.",
+        "required_words": ["student", "counseling"]
+    },
+    {
+        "response_type": "question",
+        "user_input": ["what", "are", "course", "fee", "structure"],
+        "bot_response": "You can get fee and other financial details in 'Admission' page on the University Website" ,
+        "required_words": ["fee", "structure"]
+    }
+    
+]
